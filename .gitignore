@@ -45,3 +45,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+3d-20-02-grayscale.VC.db
+*.filters
+3d-20-02-grayscale.vcxproj.user
+*.dll
+*.ply
+bin/data/mesh2017-03-28-11-31-37-405.ply
+*.bak
+obj/Release/3d-20-02-grayscale.log
+*.cache
+obj/Release/3d-20-02.7FD42DF7.tlog/CL.command.1.tlog
+*.tlog
+obj/Release/main.obj
+*.obj
+obj/Release/vc140.pdb
+*.stl
+bin/3d-20-02-grayscale.lib
+*.exp
+bin/data/shaders/perlin.frag
+bin/data/shaders/perlin.vert
+bin/data/shaders/PhotoshopGradientMap.frag
+bin/data/shaders/PhotoshopGradientMap.vert

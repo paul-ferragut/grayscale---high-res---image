@@ -1,0 +1,3 @@
+ofxColorGradient
+ofxGui
+ofxXmlSettings
